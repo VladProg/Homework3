@@ -1,0 +1,16 @@
+C:\Users\268\source\repos\Homework3\Converting\bin\Debug\net5.0\Converting.exe
+C:\Users\268\source\repos\Homework3\Converting\bin\Debug\net5.0\Converting.deps.json
+C:\Users\268\source\repos\Homework3\Converting\bin\Debug\net5.0\Converting.runtimeconfig.json
+C:\Users\268\source\repos\Homework3\Converting\bin\Debug\net5.0\Converting.runtimeconfig.dev.json
+C:\Users\268\source\repos\Homework3\Converting\bin\Debug\net5.0\Converting.dll
+C:\Users\268\source\repos\Homework3\Converting\bin\Debug\net5.0\ref\Converting.dll
+C:\Users\268\source\repos\Homework3\Converting\bin\Debug\net5.0\Converting.pdb
+C:\Users\268\source\repos\Homework3\Converting\obj\Debug\net5.0\Converting.csproj.AssemblyReference.cache
+C:\Users\268\source\repos\Homework3\Converting\obj\Debug\net5.0\Converting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\268\source\repos\Homework3\Converting\obj\Debug\net5.0\Converting.AssemblyInfoInputs.cache
+C:\Users\268\source\repos\Homework3\Converting\obj\Debug\net5.0\Converting.AssemblyInfo.cs
+C:\Users\268\source\repos\Homework3\Converting\obj\Debug\net5.0\Converting.csproj.CoreCompileInputs.cache
+C:\Users\268\source\repos\Homework3\Converting\obj\Debug\net5.0\Converting.dll
+C:\Users\268\source\repos\Homework3\Converting\obj\Debug\net5.0\ref\Converting.dll
+C:\Users\268\source\repos\Homework3\Converting\obj\Debug\net5.0\Converting.pdb
+C:\Users\268\source\repos\Homework3\Converting\obj\Debug\net5.0\Converting.genruntimeconfig.cache
